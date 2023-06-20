@@ -1,2 +1,3 @@
 # FCC-RelationalDB-Project2
-World Cup Database Project Code
+Code to create PostgreSQL database of celestial bodies provided in [worldcup.sql](worldcup.sql)
+
